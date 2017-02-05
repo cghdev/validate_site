@@ -1,5 +1,5 @@
 # validate_site
-Bash script to x509 certificate status and chain on a server.
+Bash script to valdidate x509 certificates status and chain from a server.
 
 
 Example:
